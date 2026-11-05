@@ -1,4 +1,4 @@
-# Development of open source based agricultural indicators
+# GeoLiving Agriculture
 <img width="1280" height="640" alt="ssb-geoliving-wp3-agriculture-social-preview" src="https://github.com/user-attachments/assets/d77f85b1-1204-4d72-83f2-b11c033913b1" />
 
 ## Background
