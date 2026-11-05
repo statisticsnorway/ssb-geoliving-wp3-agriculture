@@ -15,8 +15,8 @@ In this work package we would first plan to make an inventory of existing nation
 •	Economic Accounts for Agriculture (EAA)
 •	Farm Structure Survey (FSS)
 •	Pesticide and Fertilizer Use Statistics
-T
-hese are standardized under various EU regulations to ensure comparability across Member States. Most data are publicly available via Eurostat's agriculture database .
+
+These are standardized under various EU regulations to ensure comparability across Member States. Most data are publicly available via Eurostat's agriculture database .
 Furthermore, we plan to do a feasibility study when it comes to long time series, 100 years or more, and breaking figures down to LAU level. Some possible sources are:
 
 •	Aslak Bolt's Cadastre (1432–1433)
